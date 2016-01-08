@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-7 centre_me text-center">
+            <img src="img/logo.png"  class="logo" alt="Logo" />
+            <h3 class="heading">Clairvoyant Medium & Soul Coach</h3>
+            <div class="row">
+                <div class="col-md-5">
+                    <img src="img/profile_img.png" alt="clairvoyant" class="profile_img">
+                </div>
+                <div class="col-md-7 text-left">
+                    <p>
+                        For Reading:
+                        <a href="mailto:lana@spirit-rocks.ca">lana@spirit-rocks.ca</a>
+                    </p>
+                    <p>With me in Burlington, Ontario, Canada</p>
+                    <p>
+                        <b>Spirit Rocks Crystal Jewelry</b>
+                        <br />
+                        <a href="http://SpiritRocksCrystals.etsy.com" target="_blank">SpiritRocksCrystals.etsy.com</a>
+                    </p>
+                    <p>
+                        For custom pieces: <a href="mailto:info@spirit-rocks.ca">info@spirit-rocks.ca</a>
+                    </p>
+                </div>
+            </div>
+            <div class="position_relative">
+                <h5 class="full_site">Full Site Coming Soon!</h5>
+                <div class="line" /></div>
+            </div>
+        </div>
+    </div>
+    </div>
